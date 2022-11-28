@@ -1,0 +1,75 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+/*font-family: 'Oswald', sans-serif;*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Oswald', sans-serif;
+    background-color: black;
+}
+.logo{
+    width: 15rem;
+    height: 15rem;
+    
+
+}
+h1{
+    color: rgb(0, 229, 255);
+    font-size: 30px;
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    margin: 2rem;
+
+}
+
+.garde{
+    font-size: 20px;
+    text-align: right;
+}
+
+#promo{
+    font-size: 15px;
+    color: aqua;
+    font-size: 2rem;
+}
+p{
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+    margin: 2rem;
+}
+h2{
+    text-align: justify;
+    font-size: 20px;
+    color: blanchedalmond;
+    margin: 2rem;
+}
+.iconofacebook{
+  font-size: 60px;
+  color: blanchedalmond;  
+}
+.iconoInsta{
+    font-size: 60px;
+    color: blanchedalmond;
+}
+
+#contacto{
+    color: aqua;
+    font-size: 2rem;
+}
+
+#inicio{
+    color: aqua;
+    font-size: 2rem;
+}
+#servicios{
+    color: aqua;
+    font-size: 2rem;
+}
+#youtube{
+    color: aqua;
+    font-size: 2rem;
+
+}
